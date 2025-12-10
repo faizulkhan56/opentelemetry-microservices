@@ -1,0 +1,7 @@
+order-api/node_modules/
+order-api/logs/
+order-api/.env
+
+order-processor/node_modules/
+order-processor/logs/
+order-processor/.env
